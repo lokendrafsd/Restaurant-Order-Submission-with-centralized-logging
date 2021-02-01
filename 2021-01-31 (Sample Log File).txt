@@ -1,0 +1,12 @@
+Jan 31, 2021 4:59:07 PM main.java.com.foodrace.services.order.create.utils.LoggingComponent log
+INFO: STARTED: Trigger Create Order Process
+Jan 31, 2021 4:59:07 PM main.java.com.foodrace.services.order.create.utils.LoggingComponent log
+INFO: Added Item to Order Bucket{Idly=2}
+Jan 31, 2021 4:59:07 PM main.java.com.foodrace.services.order.create.utils.LoggingComponent log
+INFO: Added Item to Order Bucket{Dosa=3, Idly=2}
+Jan 31, 2021 4:59:07 PM main.java.com.foodrace.services.order.create.utils.LoggingComponent log
+INFO: Added Item to Order Bucket{Dosa=3, Idly=2, Poha=4}
+Jan 31, 2021 4:59:07 PM main.java.com.foodrace.services.order.create.utils.LoggingComponent log
+INFO: Final Order Placed, Total Price to be paid: 180
+Jan 31, 2021 4:59:07 PM main.java.com.foodrace.services.order.create.utils.LoggingComponent log
+INFO: COMPLETED: Trigger Create Order Process
